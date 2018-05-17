@@ -1,8 +1,12 @@
-## COMUS v3 ##
-## This is the experimental version of CoMuS
+## COMUS v4 ##
+## This is the version of CoMuS (comuscnv) that is able to simulation the evolution of copy number variants using a pre-order traversal
 
 
-## LOG
+## LOG ##
+
+## 17/5/2018
+## add the possiblility to simulate copy number variants.
+
 
 ## 8/2/2017
 ## Add option to
